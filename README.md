@@ -2,6 +2,8 @@
 
 Setup your own database credentials in .env
 
+Run 'composer install' 
+
 Run 'php artisan migrate' 
 
 Navigate to the project root in the browser to see the login view
